@@ -1,4 +1,4 @@
 
 # Plugins
 
-* [Blocks Plus Minus](block-plus-minus/test/index.html)
+* [Blocks Plus Minus](plugins/block-plus-minus/test/index.html)
